@@ -7,7 +7,7 @@ to choose suitable career based on their dominance brain-hemisphere and choose c
 <p align="center">
   
 <p align="center">
-  <img src="Apps Logo.PNG">
+  <img src="CourseAdvisor Logo 3.PNG">
 </p>
 
 <br>
