@@ -1,4 +1,7 @@
 import streamlit as st
+
+st.write("<b> BRAIN-BASED COURSE FIELD ADVISOR</b>", unsafe_allow_html=True)
+st.markdown(f"<br>", unsafe_allow_html=True)
 # Display image
 st.image("Logo_Brain_Course Advisor.PNG")
 
