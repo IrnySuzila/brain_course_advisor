@@ -3,7 +3,7 @@
 </h1><br><br>
 <p align="center">
 The Brain-Based Course Advisor is suitable for students and SPM/STPM leavers
-to choose suitable career based on their dominance brain-hemisphere and choose course to take in University.
+to choose suitable career based on their dominance brain-hemisphere and choose course field to take in University.
 <p align="center">
   
 <p align="center">
